@@ -1,4 +1,4 @@
-package com.hit.algorithm;
+package com.hit.algorithem;
 
 import java.util.HashMap;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package com.hit.algorithm;
+package com.hit.algorithem;
 
 public interface IAlgoCashe<K,V> {
 	V  getElemment(K key);
